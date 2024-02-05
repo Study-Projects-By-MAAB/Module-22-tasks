@@ -18,5 +18,5 @@ const laptop = 2;
 const tablet = 3;
 const mobile = 5;
 
-const budget = calculateElectronicdsBudget(laptop, tablet, mobile)
+const budget = calculateElectronicsBudget(laptop, tablet, mobile)
 console.log('Total budget needed for electronics:', budget);
